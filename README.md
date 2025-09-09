@@ -1,5 +1,6 @@
 # CalidadSw
 Repositorio de prueba para Trabajo Práctico de Calidad de Software. 
+Grupo 10: Franco Tallone Maffia, Lucila Gomez, Valentina Perona
 
 ## Ejecución del código
 
